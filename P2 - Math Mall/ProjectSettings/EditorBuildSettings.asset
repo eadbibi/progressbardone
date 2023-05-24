@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/FIntro.unity
+    guid: 0f6b0a83eb34881489b1c6eb8487931e
+  - enabled: 1
+    path: Assets/Scenes/Forside.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 96060840316badc4e98fd1886e5c5b50
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: d6e2276f8750b1e48a2e3fb3a8ee6358
+  - enabled: 1
+    path: Assets/Scenes/Indstillinger.unity
+    guid: 4748ab43491cfa54a9b53b908d503ffb
+  - enabled: 1
+    path: "Assets/Scenes/M\xE5l.unity"
+    guid: 5eba1c49f22622a43bcbcb628ff74b5e
+  - enabled: 1
+    path: Assets/Scenes/Niveauer/NEM/NEM.unity
+    guid: de3eb62ec2b9b5e47afed8802c1c9884
+  - enabled: 1
+    path: Assets/Scenes/Niveauer/MELLEM/MELLEM.unity
+    guid: 6f400b5d5d1ff22479c2595c863e4d5e
+  - enabled: 1
+    path: "Assets/Scenes/Niveauer/SV\xC6R/SV\xC6R.unity"
+    guid: 298ec0e5b93d25747b254138ec3c3aff
+  - enabled: 1
+    path: Assets/Scenes/Niveauer/OP/OP.unity
+    guid: 2b36767f3feb70f4a9f42ebb015d06a6
+  - enabled: 1
+    path: Assets/Scenes/Niveauer/NEM/WinScene.unity
+    guid: ff9f234514971054082ea085d1f71553
+  m_configObjects: {}
